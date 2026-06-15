@@ -1,6 +1,6 @@
 # Enterprise Employee Management System
 
-A Java-based Employee Management System designed to streamline HR operations, employee record management, payroll tracking, and reporting through a secure and scalable 
+A Java-based Employee Management System designed to streamline HR operations, employee record management, payroll tracking, and reporting through a secure and scalable platform.
 
 ## Overview
 
